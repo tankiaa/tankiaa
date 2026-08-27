@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Tania! 👋
 
-<!--
-**tankiaa/tankiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **PTIK / Computer Science Student** | 💻 **VB.NET & Database Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 📚 Computer Science & Educational Technology Student.
+- 💻 Passionate about **Desktop Application Development** & **UI/UX Design**.
+- 🛠️ Building management systems with **VB.NET**, **MySQL**, and **Custom UI**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** VB.NET, C++
+- **Database:** MySQL
+- **Design & Multimedia:** Adobe Photoshop
+- **Tools:** Visual Studio, Git & GitHub
+
+---
+
+### 📌 Featured Projects
+- 🐾 **[Aplikasi PetCare](https://github.com/tankiaa/Aplikasi_PetCare)** - Pet Care Management & POS System with Receipt Printing.
+- 🧺 **[LaundryApp Tania](https://github.com/tankiaa/LaundryAPP_Tania)** - Laundry Management System with Interactive Dashboard.
+
+---
+
+📫 **Connect with me:** Feel free to explore my repositories!
