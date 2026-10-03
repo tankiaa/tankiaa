@@ -49,15 +49,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tankiaa&show_icons=true&theme=radial" alt="Tania's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankiaa&layout=compact&theme=radial" alt="Top Languages" width="45%" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - 💼 **LinkedIn:** [Tania Saskia](https://www.linkedin.com/in/tania-saskia-526a54289)
