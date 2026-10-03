@@ -8,8 +8,8 @@
 ## 📌 About Me
 
 - 📚 Pursuing a degree in **Pendidikan Teknik Informatika dan Komputer (PTIK)**.
-- 🤖 Passionate about building **AI-powered Chatbots**, Desktop Applications, and modern UI/UX design.
-- 🛠️ Experienced in end-to-end management systems & intelligent AI assistant solutions.
+- 🤖 Passionate about building **AI-powered Planning Assistants**, Desktop Applications, and modern UI/UX design.
+- 🛠️ Experienced in end-to-end management systems & intelligent schedule management solutions.
 - 🚀 Actively exploring **Artificial Intelligence**, software engineering, and open-source projects.
 
 ---
@@ -29,13 +29,13 @@
 ## 🚀 Featured Projects
 
 ### 🤖 [PlanCraft AI Chatbot](https://github.com/tankiaa/plancraft-ai-chatbot) ⭐ *Favorite Project*
-> **An Intelligent AI-Powered Conversational Assistant**
-- **Overview:** Asisten berbasis kecerdasan buatan (AI) yang dirancang untuk membantu perencanaan, pemrosesan informasi, dan interaksi percakapan yang cerdas.
+> **AI-Powered Schedule & Study Planning Assistant**
+- **Overview:** Asisten cerdas berbasis AI yang dirancang khusus untuk membantu pengguna menyusun jadwal harian, rencana belajar (*study plan*), serta manajemen waktu secara otomatis dan terstruktur.
 - **Key Features:**
-  - Dynamic AI Response & Natural Language Understanding (NLU).
-  - Smart Task & Planning Assistant logic.
-  - Interactive & User-friendly Conversation Interface.
-- **Tech Stack:** `Python` / `AI APIs` *(kamu bisa menyesuaikan stack teknisnya)*
+  - **Smart Schedule Generator:** Menyusun alokasi waktu dan rencana kegiatan berdasarkan prioritas tugas pengguna.
+  - **Interactive Planning Chat:** Percakapan interaktif untuk menyesuaikan dan mengoptimalkan jadwal harian/mingguan.
+  - **Time Management Logic:** Membantu membagi tugas besar menjadi target-target kecil yang realistis.
+- **Tech Stack:** `Python`, `AI APIs`.
 
 ### 🐾 [Aplikasi PetCare](https://github.com/tankiaa/Aplikasi_PetCare)
 > **Desktop-based Pet Care Management & POS System**
